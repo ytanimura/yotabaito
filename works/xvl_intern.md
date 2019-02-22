@@ -2,6 +2,7 @@
   
 より正確には「3次元双曲空間の球体モデルにおける正12面体の充填模型」をモデリングした。3次元双曲空間は正12面体で充填でき、そのときの正12面体の各面同士のなす角は一意的ではないことが知られている。
   
-[面同士のなす角が90°の場合](https://github.com/ytanimura/yotabaito/tree/master/works/pi_over_2_finer.xv3)（[軽量版](https://github.com/ytanimura/yotabaito/tree/master/works/pi_over_2.xv3)）
-[面同士のなす角が60°の場合](https://github.com/ytanimura/yotabaito/tree/master/works/pi_over_3.xv3)
+[面同士のなす角が90°の場合](https://github.com/ytanimura/yotabaito/tree/master/works/pi_over_2_finer.xv3?raw=true)
+（[軽量版](https://github.com/ytanimura/yotabaito/tree/master/works/pi_over_2.xv3?raw=true)）  
+[面同士のなす角が60°の場合](https://github.com/ytanimura/yotabaito/tree/master/works/pi_over_3.xv3?raw=true)
 
