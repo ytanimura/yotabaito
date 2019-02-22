@@ -20,7 +20,7 @@
 
 
 ## 修士論文
-冪零 Lie 群の等質空間の Clifford-Klein 形の変形問題
+冪零 Lie 群の等質空間の Clifford-Klein 形の変形問題  
 ——その概要とBakloutiの予想の部分的解決——
 
 ## 博士論文
