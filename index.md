@@ -15,9 +15,9 @@
 
 ## さとりのしょ
 勉強したことをまとめただけ
-- 解析セミナー
-- 微分幾何学
-- その他
+- [解析セミナー](https://ytanimura.github.io/yotabaito/satorinosho/analysis_seminar)
+- [微分幾何学](https://ytanimura.github.io/yotabaito/satorinosho/diff_geom)
+- [その他](https://ytanimura.github.io/yotabaito/satorinosho/others)
 
 
 
