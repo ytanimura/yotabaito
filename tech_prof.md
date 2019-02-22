@@ -11,7 +11,7 @@ D, Java, PostScript, Rust, VBA
 C#, Go, Javascript, Perl, PHP, Python, Scala, Swift, Typescript
 
 ## 使用OS
-Linux (Ubuntu) を普段使いとして6年ほど使用していた。  
+Linux (Ubuntu) を普段使いとして6年ほど使用していた。    
 それ以外の期間には Windows を使っている。
 
 ## その他の使用環境
@@ -24,7 +24,8 @@ LaTeX, Beamer, Word, Powerpoint, Inkscape
 大学院在学中は計算数学I/IIの TA を担当していた。
 
 ## インターン経験
-2016年夏、ラティス・テクノロジー株式会社にて、2週間（全11日）かけて独自フォーマットの XVL を用いて 3D モデリングをした。
+2016年夏、ラティス・テクノロジー株式会社にて、2週間（全11日）のインターンを行った。  
+独自フォーマットの XVL を用いて 3D モデリングをした。
 
 ## 職歴
 2018年、ラティス・テクノロジー株式会社に新卒入社。VR 関係の開発に携わる。
