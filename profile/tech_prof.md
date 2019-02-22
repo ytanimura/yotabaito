@@ -28,5 +28,8 @@ LaTeX, Beamer, Word, Powerpoint, Inkscape
 独自フォーマットの XVL を用いて 3D モデリングをした。
 
 ## 職歴
-2018年、ラティス・テクノロジー株式会社に新卒入社。VR 関係の開発に携わる。
+2018年、ラティス・テクノロジー株式会社に新卒入社。VR 関係の開発に携わる。  
+  
+  
+[戻る](https://ytanimura.github.io/yotabaito/)
 

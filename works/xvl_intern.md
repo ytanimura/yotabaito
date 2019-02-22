@@ -4,5 +4,8 @@
   
 [面同士のなす角が90°の場合](https://github.com/ytanimura/yotabaito/raw/master/works/pi_over_2_finer.xv3)
 （[軽量版](https://github.com/ytanimura/yotabaito/raw/master/works/pi_over_2.xv3)）  
-[面同士のなす角が60°の場合](https://github.com/ytanimura/yotabaito/raw/master/works/pi_over_3.xv3)
+[面同士のなす角が60°の場合](https://github.com/ytanimura/yotabaito/raw/master/works/pi_over_3.xv3)  
+  
+  
+[戻る](https://ytanimura.github.io/yotabaito/)
 
