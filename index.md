@@ -18,6 +18,7 @@
 - [解析セミナー](https://ytanimura.github.io/yotabaito/satorinosho/analysis_seminar)
 - [微分幾何学](https://ytanimura.github.io/yotabaito/satorinosho/diff_geom)
 - [その他](https://ytanimura.github.io/yotabaito/satorinosho/others)
-
+  
+[買ってくれたらまとめるかもしれないリスト](https://www.amazon.co.jp/hz/wishlist/ls/1VIVALU5NP9OX)
 
 
