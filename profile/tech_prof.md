@@ -21,11 +21,11 @@ LaTeX, Beamer, Word, Powerpoint, Inkscape
 応用情報技術者、データベーススペシャリスト
 
 ## 教育活動
-大学院在学中は計算数学I/IIの TA を担当していた。
+大学院在学中は[計算数学I/II](https://sites.google.com/g.ecc.u-tokyo.ac.jp/kspage)の TA を担当していた。
 
 ## インターン経験
 2016年夏、ラティス・テクノロジー株式会社にて、2週間（全11日）のインターンを行った。  
-独自フォーマットの XVL を用いて 3D モデリングをした。
+独自フォーマットの XVL を用いて 3D モデリングをした。（[成果物](https://ytanimura.github.io/yotabaito/works/xvl_intern))）
 
 ## 職歴
 2018年、ラティス・テクノロジー株式会社に新卒入社。VR 関係の開発に携わる。  
