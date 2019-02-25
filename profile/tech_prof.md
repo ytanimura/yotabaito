@@ -25,7 +25,7 @@ LaTeX, Beamer, Word, Powerpoint, Inkscape
 
 ## インターン経験
 2016年夏、ラティス・テクノロジー株式会社にて、2週間（全11日）のインターンを行った。  
-独自フォーマットの XVL を用いて 3D モデリングをした。（[成果物](https://ytanimura.github.io/yotabaito/works/xvl_intern))）
+独自フォーマットの XVL を用いて 3D モデリングをした。（[成果物](https://ytanimura.github.io/yotabaito/works/xvl_intern)）
 
 ## 職歴
 2018年、ラティス・テクノロジー株式会社に新卒入社。VR 関係の開発に携わる。  
