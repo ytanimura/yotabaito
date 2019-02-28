@@ -28,9 +28,9 @@ completely solvable Lie groups, arXiv:1607.07199
 ## 口頭発表
 - 谷村慈則、可換・冪零・可解リー群のClifford-Klein形の変形空間について（ポスター発表）、日本数学会異分野・異業種研究交流会、東京大学大学院数理科学研究科大講義室、2014年10月
 - 谷村慈則、冪零Lie群の等質空間のClifford-Klein形の変形問題、第14回関東若手幾何セミナー、首都大学東京秋葉原サテライトキャンパス、2015年5月
-- Y. Tanimura, "A splitting of the local rigidity of Clifford-Klein forms of homogeneous spaces of nilpotent Lie groups," SEMINAIRE, Universite Tunis El Manar Labora-torire LATAO, Faculte des Sciences de Tunis Department de Mathematiques, 26/01/2017
+- Y. Tanimura, "A splitting of the local rigidity of Clifford-Klein forms of homogeneous spaces of nilpotent Lie groups," SEMINAIRE, Universite Tunis El Manar Labora-torire LATAO, Faculte des Sciences de Tunis Department de Mathematiques, January, 2017
 - 谷村慈則、可解な階層付きリー代数に対応するリー群を変換群とする Clifford-Klein 形の柔軟性について、日本数学会2017年度年会、首都大学東京南大沢キャンパス、2017年3月
-- Y. Tanimura, "An application of F-method to nilpotent homogeneous spaces," 5th Tunisian-Japanese Conference Geometric and Harmonic Analysis on Homogeneous Spaces and Applications, Royal Elmansour Hotel, Mahdia, Tunisia
+- Y. Tanimura, "An application of F-method to nilpotent homogeneous spaces," 5th Tunisian-Japanese Conference Geometric and Harmonic Analysis on Homogeneous Spaces and Applications, Royal Elmansour Hotel, Mahdia, Tunisia, December, 2017
 
 ## 獲得資金
 数物フロンティア・リーディング大学院
