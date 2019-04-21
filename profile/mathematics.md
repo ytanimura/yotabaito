@@ -24,6 +24,7 @@ An algebraic approach to Duflo's polynomial conjecture in the nilpotent case
 ## 発表論文
 - Y. Tanimura, A splitting of the local rigidity of Clifford-Klein forms of homogeneous spaces of
 completely solvable Lie groups, arXiv:1607.07199
+- Y. Tanimura, An algebraic approach to Duflo's polynomial conjecture in the nilpotent case, Journal of Lie Theory, To appear
 
 ## 口頭発表
 - 谷村慈則、可換・冪零・可解リー群のClifford-Klein形の変形空間について（ポスター発表）、日本数学会異分野・異業種研究交流会、東京大学大学院数理科学研究科大講義室、2014年10月
