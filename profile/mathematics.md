@@ -32,6 +32,7 @@ completely solvable Lie groups, arXiv:1607.07199
 - Y. Tanimura, "A splitting of the local rigidity of Clifford-Klein forms of homogeneous spaces of nilpotent Lie groups," SEMINAIRE, Universite Tunis El Manar Labora-torire LATAO, Faculte des Sciences de Tunis Department de Mathematiques, January, 2017
 - 谷村慈則、可解な階層付きリー代数に対応するリー群を変換群とする Clifford-Klein 形の柔軟性について、日本数学会2017年度年会、首都大学東京南大沢キャンパス、2017年3月
 - Y. Tanimura, "An application of F-method to nilpotent homogeneous spaces," 5th Tunisian-Japanese Conference Geometric and Harmonic Analysis on Homogeneous Spaces and Applications, Royal Elmansour Hotel, Mahdia, Tunisia, December, 2017
+- Y. Tanimura, "An algebraic approach to Duflo's polynomial conjecture in the nilpotent case," Algebraic Lie Theory and Representation Theory, 山喜旅館, Ito, Shizuoka May, 2019
 
 ## 獲得資金
 数物フロンティア・リーディング大学院
