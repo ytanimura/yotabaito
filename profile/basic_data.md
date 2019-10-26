@@ -20,7 +20,7 @@
 
 ## 職歴
 - 2018年 4月 ラティス・テクノロジー株式会社 入社  
-  
+- 2018年 10月 同 退職
   
 [戻る](https://ytanimura.github.io/yotabaito/)
 
