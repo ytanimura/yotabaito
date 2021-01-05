@@ -1,5 +1,8 @@
 # 情報技術 
 
+## OSS 開発経験
+ - [truck](https://github.com/ricosjp/truck): OSS Rust shape processing kernel  
+
 ## プログラミング言語
 ### とてもできる：普段から使っている・拡張パッケージを書いたりもする。  
 Ruby, C++, C, Rust, GLSL
@@ -30,9 +33,6 @@ LaTeX, Beamer, Word, Powerpoint, Inkscape
 ## 職歴
 2018年4月にラティス・テクノロジー株式会社に新卒入社。VR 関係の開発に携わる。  
 2019年11月に株式会社科学計算総合研究所に転職。数理科学とCGの研究開発に従事。
-
-## 公開可能な職務上の成果
- - [truck](https://github.com/ricosjp/truck): OSS Rust shape processing kernel  
-  
+ 
 [戻る](https://ytanimura.github.io/yotabaito/)
 
