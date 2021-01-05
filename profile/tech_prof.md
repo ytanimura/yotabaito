@@ -1,6 +1,6 @@
 # 情報技術 
 
-## OSS 開発経験
+## 作ったOSS
  - [truck](https://github.com/ricosjp/truck): OSS Rust shape processing kernel  
 
 ## プログラミング言語
