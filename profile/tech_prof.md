@@ -2,10 +2,10 @@
 
 ## プログラミング言語
 ### とてもできる：普段から使っている・拡張パッケージを書いたりもする。  
-Ruby, C++, C
+Ruby, C++, C, Rust, GLSL
 
 ### まあまあできる：まとまったものを作ったことがある・道具として使える。  
-D, Java, PostScript, Rust, VBA
+D, Java, PostScript, VBA
 
 ### いちおうできる：連結リストなどの簡単なデータ構造の実装程度ならしたことがある。  
 C#, Go, Javascript, Perl, PHP, Python, Scala, Swift, Typescript
@@ -29,7 +29,10 @@ LaTeX, Beamer, Word, Powerpoint, Inkscape
 
 ## 職歴
 2018年4月にラティス・テクノロジー株式会社に新卒入社。VR 関係の開発に携わる。  
-2019年11月に株式会社科学計算総合研究所に転職。OpenCascadeを用いた開発や数理科学関連のセミナーを行う。  
+2019年11月に株式会社科学計算総合研究所に転職。数理科学とCGの研究開発に従事。
+
+## 公開可能な職務上の成果
+ - [truck](https://github.com/ricosjp/truck): OSS Rust shape processing kernel  
   
 [戻る](https://ytanimura.github.io/yotabaito/)
 

@@ -9,6 +9,7 @@
 
 ## つくったもの
 情報技術関連の創作物
+- [truck](https://github.com/ricosjp/truck)
 - [XVLを用いた3次元双曲空間の充填模型](https://ytanimura.github.io/yotabaito/works/xvl_intern)
 - [リー代数パッケージ](https://github.com/ytanimura/liealgebra)
 - [数学関連の動画](https://ytanimura.github.io/yotabaito/works/movie)
